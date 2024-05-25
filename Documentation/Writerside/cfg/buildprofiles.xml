@@ -4,9 +4,6 @@
 
     <variables>
         <primary-color>deep-ocean</primary-color>
-        <algolia-id>F9K21IS9UT</algolia-id>
-        <algolia-index>prod_PRC</algolia-index>
-        <algolia-api-key>47ec9e34af211dfc38489ecfd4d4fe5f</algolia-api-key>
         <web-root>https://levinbaenninger.github.io/processes</web-root>
     </variables>
     <build-profile instance="hi">
