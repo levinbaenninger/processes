@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
-               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
 
     <variables>
         <primary-color>deep-ocean</primary-color>
-        <algolia-id>3D5KGXJPTM</algolia-id>
-        <algolia-index>prc</algolia-index>
-        <algolia-api-key>ec6d934b5622e589c0549bb8b932f9d8</algolia-api-key>
+        <algolia-id>F9K21IS9UT</algolia-id>
+        <algolia-index>prod_PRC</algolia-index>
+        <algolia-api-key>47ec9e34af211dfc38489ecfd4d4fe5f</algolia-api-key>
         <web-root>https://levinbaenninger.github.io/processes</web-root>
     </variables>
     <build-profile instance="hi">
