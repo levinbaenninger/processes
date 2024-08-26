@@ -4,6 +4,9 @@
 
     <variables>
         <primary-color>aqua</primary-color>
+        <algolia-id>4LNXOD5DTZ</algolia-id>
+        <algolia-index>prod_PROCESSES</algolia-index>
+        <algolia-api-key>da06537087eba4de0b90ebcb9ea45c08</algolia-api-key>
     </variables>
     <build-profile instance="hi">
         <variables>
